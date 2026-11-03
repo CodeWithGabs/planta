@@ -18,3 +18,8 @@ npm run build    # site estático em dist/ (pode publicar em Vercel/Netlify)
 V selecionar · W parede · C cômodo · Shift+C cômodo livre · P porta · J janela · O vão · M cota · H mão
 Ctrl+Z / Ctrl+Shift+Z · Del excluir · R girar móvel · Ctrl+C/V/D · Espaço+arrastar move a vista.
 Desenhando parede: digite a medida (ex.: `3,45`) e Enter.
+
+## Publicar no GitHub Pages
+```bash
+npm run deploy   # gera o build e envia dist/ para o branch gh-pages
+```
