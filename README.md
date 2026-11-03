@@ -1,6 +1,8 @@
 # Planta — projete sua casa em 2D e 3D
 
 Editor de plantas no navegador: paredes, portas, janelas, vãos, cômodos com área automática, cotas, 34 móveis com medidas reais, vários andares, visão 3D orbital e "andar pela casa".
+**No ar:** https://codewithgabs.github.io/planta/
+
 Tudo fica salvo no localStorage do navegador (exporta e importa `.json`).
 
 ## Rodar
